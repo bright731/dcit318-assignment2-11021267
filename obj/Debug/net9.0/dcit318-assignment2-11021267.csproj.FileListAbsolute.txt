@@ -1,0 +1,15 @@
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\bin\Debug\net9.0\dcit318-assignment2-11021267.exe
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\bin\Debug\net9.0\dcit318-assignment2-11021267.deps.json
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\bin\Debug\net9.0\dcit318-assignment2-11021267.runtimeconfig.json
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\bin\Debug\net9.0\dcit318-assignment2-11021267.dll
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\bin\Debug\net9.0\dcit318-assignment2-11021267.pdb
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\dcit318-assignment2-11021267.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\dcit318-assignment2-11021267.AssemblyInfoInputs.cache
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\dcit318-assignment2-11021267.AssemblyInfo.cs
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\dcit318-assignment2-11021267.csproj.CoreCompileInputs.cache
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\dcit318-assignment2-11021267.dll
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\refint\dcit318-assignment2-11021267.dll
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\dcit318-assignment2-11021267.pdb
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\dcit318-assignment2-11021267.genruntimeconfig.cache
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\ref\dcit318-assignment2-11021267.dll
+C:\Users\DE DON\Desktop\dcit318-assignment2-11021267\obj\Debug\net9.0\dcit318-assignment2-11021267.sourcelink.json
